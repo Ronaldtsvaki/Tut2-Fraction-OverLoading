@@ -80,6 +80,9 @@
   <ItemGroup>
     <ClInclude Include="Fraction.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Function.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
