@@ -31,7 +31,7 @@ void Fraction::displayFrac()
 
 
 Fraction Fraction::multiply(Fraction f)
-{
+
 	Fraction temp(num*f.num, den*f.den);
 	return temp;
 }
